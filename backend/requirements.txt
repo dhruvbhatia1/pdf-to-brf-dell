@@ -1,0 +1,5 @@
+PyMuPDF>=1.19.6
+pytesseract>=0.3.9
+Pillow>=9.1.1
+fitz
+io

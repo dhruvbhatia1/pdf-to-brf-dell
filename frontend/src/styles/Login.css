@@ -1,0 +1,9 @@
+body {
+	background-image: url("/background.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	backdrop-filter: blur(2px);
+	opacity: 1;
+	/* Additional styles if needed */
+}
