@@ -9,4 +9,7 @@ This project was developed as part of the Dell Hack2Hire hackathon with the goal
 - **Collaborative Development:** Worked in a team of five to integrate frontend and backend components seamlessly, ensuring the efficient conversion of PDFs to BRF.
 - **Accessibility Focus:** Prioritized accessibility needs by providing a streamlined solution for visually impaired individuals to access knowledge resources.
 
+## Demo Video
+
+https://github.com/dhruvbhatia1/pdf-to-brf-dell/assets/65610188/9a037819-0dbd-4b56-8c82-b483af57bb0c
 
